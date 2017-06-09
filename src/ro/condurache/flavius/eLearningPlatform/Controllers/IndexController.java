@@ -1,4 +1,4 @@
-package ro.condurache.flavius.eLearningPlatform.controller;
+package ro.condurache.flavius.eLearningPlatform.Controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

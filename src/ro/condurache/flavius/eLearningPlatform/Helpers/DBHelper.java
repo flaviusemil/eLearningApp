@@ -1,4 +1,4 @@
-package ro.condurache.flavius.eLearningPlatform.helper;
+package ro.condurache.flavius.eLearningPlatform.Helpers;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -9,6 +9,6 @@
     <link rel="stylesheet" href="<c:url value="/resources/css/style.css" />" />
   </head>
   <body>
-  <p>Hello <c:out value="${model.name}" />!</p>
+    <p>Hello <c:out value="${model.name}" />!</p>
   </body>
 </html>
